@@ -1,0 +1,7 @@
+pandas
+advertools
+google-generativeai
+gradio
+python-dotenv
+markdownify
+mdformat
