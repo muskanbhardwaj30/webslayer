@@ -172,8 +172,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### ✨ Project Maintainer
 
-**Himanshu Mahajan**
-🔗 [GitHub](https://github.com/himanshumahajan138)
+**Muskan**
+🔗 [GitHub](https://github.com/muskanbhardwaj30)
 ✉️ Feel free to connect!
 
 ---
